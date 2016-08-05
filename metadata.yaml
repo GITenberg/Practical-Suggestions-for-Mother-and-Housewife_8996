@@ -1,0 +1,30 @@
+_repo: Practical-Suggestions-for-Mother-and-Housewife_8996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Marion Mills
+    birthdate: 1864
+    deathdate: 1949
+    gutenberg_agent_id: '400'
+    url: http://www.gutenberg.org/2009/agents/400
+  editor:
+    agent_name: Waters, Theodore
+    birthdate: 1870
+    gutenberg_agent_id: '39882'
+    url: http://www.gutenberg.org/2009/agents/39882
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Home economics'
+- !lcc 'TX'
+- GITenberg
+title: Practical Suggestions for Mother and Housewife
+url: http://www.gutenberg.org/ebooks/8996
