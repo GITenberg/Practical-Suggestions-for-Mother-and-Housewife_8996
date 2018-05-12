@@ -1,5 +1,8 @@
 _repo: Practical-Suggestions-for-Mother-and-Housewife_8996
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Miller, Marion Mills
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '39882'
     url: http://www.gutenberg.org/2009/agents/39882
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8996#Practical-Suggestions-for-Mother-and-Housewife
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
